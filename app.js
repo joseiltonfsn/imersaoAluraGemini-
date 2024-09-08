@@ -31,7 +31,7 @@ function pesquisar(){
 
         resultados += `<div class="item-resultado">
             <h2>
-                <a href="#" target="_blank">
+                <a href="${dado.link}" target="_blank">
                     ${dado.titulo}
                 </a>
             </h2>
